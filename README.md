@@ -15,7 +15,10 @@ If you use this code in your research please consider citing
 * Check out the repo (recursively will also checkout the CyCADA fork of the CycleGAN repo).<br>
 `git clone --recursive https://github.com/neuromation/cycada_release.git cycada`
 * Install python requirements
-    * pip install -r requirements.txt
+    * `pip install -r requirements.txt`
+* Install cycada package:
+    * `cd` into `cycada_release` directory
+    * run `pip install -e .` for installing locally, or `pip install .` for global installation
 
 ## Training
 Training of the whole model could be divided into 3 separate steps: 
