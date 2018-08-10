@@ -21,5 +21,5 @@ setup(
     author='jhoffman, Neuromation',
 
     # Future exclusions
-    packages=find_packages(exclude=['contrib', 'docs', 'tests'])
+    packages=find_packages(exclude=['contrib', 'docs', 'tests', 'cyclegan'])
 )
