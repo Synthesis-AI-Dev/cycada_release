@@ -13,7 +13,7 @@ If you use this code in your research please consider citing
 
 ## Setup
 * Check out the repo (recursively will also checkout the CyCADA fork of the CycleGAN repo).<br>
-`git clone --recursive git@github.com:neuromation/cycada_release.git cycada`
+`git clone --recursive https://github.com/neuromation/cycada_release.git cycada`
 * Install python requirements
     * pip install -r requirements.txt
 
